@@ -16,9 +16,10 @@
 * 话费300面额83折，500及以上面额8折，多卖多赚。
 * 到账时效0-72小时，大部分24小时内，对外0-72小时
 
-## 4.[平台提单教程](https://gnip.top/tidna.MP4)
+## 4.[平台提单教程](https://github.com/huafei80/huafei80/assets/168969977/f7ad241a-b392-4aa0-b2b4-b0c521b2fe11)
 * 不可充值类型：`副卡` | `集团号` | `公司号` | `一卡多号` | `虚拟号` | `空号` | `错号` | `停机号` | `广电号` 不能充！`携号转网`可以充，欠费能查到余额的可以冲
 * 首次提交余额查询失败，隔天仍是失败的号码，请主动取消该订单，余额获取不到的号码，不会被充值！请注意！
+https://github.com/huafei80/huafei80/assets/168969977/f7ad241a-b392-4aa0-b2b4-b0c521b2fe11
 
 ## 5.售后及注意事项/闲鱼开单防白嫖
 * 所有订单，售后限时5天，提供浏览器北京时间+营业厅APP充值记录的录屏提交给`平台在线客服`或者`Telegram售后群`（开单后发开单截图到群内拉入），录屏参考[Telegram群](https://t.me/huafei80)置顶
@@ -48,23 +49,26 @@
 
 ## 购买USTD
 
-### [APP内购买U币（新手推荐）](https://gnip.top/maiu.MP4)
+### [我的钱包地址](https://github.com/huafei80/huafei80/assets/168969977/a0613d2d-11ba-4c34-a0e5-e24624c083c9)（欧意为例）
+* 打开交易所-充币-TRC20-复制地址
+* 其他交易所流程相同
+https://github.com/huafei80/huafei80/assets/168969977/a0613d2d-11ba-4c34-a0e5-e24624c083c9
+
+### [APP内购买U币（新手推荐）](https://github.com/huafei80/huafei80/assets/168969977/6aec6aa9-17d8-444e-a704-9e1031f3e303)
 * 优点：方便快捷，即买即用，无手续费
 * 缺点：每个币会比交易所贵一毛左右
 1. 付款前请先通过在线联系确认卖家是否在线
 2. 除付款外，其他所有聊天内容请不要离开小利平台（看清楚这句话）
 3. 交易过程中遇到任何问题，申请客服介入
-   
-### 交易所买币/[提币教程](https://gnip.top/ouyi.mp4)（欧易）
+https://github.com/huafei80/huafei80/assets/168969977/6aec6aa9-17d8-444e-a704-9e1031f3e303
+
+### 交易所买币/[提币教程](https://github.com/huafei80/huafei80/assets/168969977/2f2aff19-0c6a-44d0-8d00-5f2c94318a4b)（欧易）
 * [欧易注册下载](https://okx.com/join/18350466)
 * [火币注册下载](https://www.htx.co.si/invite/zh-cn/1f?invite_code=qik68223)
 * [币安注册下载](https://accounts.binance.info/register?ref=859820015)
 * 注意事项：交易所提币数量需要比小利充值数量多1U，这1U为交易所提币必须的手续费，非本公司收取
 * 币安/火币流程相同，不做赘述，遇到充值失败问题，联系在线客服解决
-
-### [我的钱包地址](https://gnip.top/qianbao.mp4)（欧意为例）
-* 打开交易所-充币-TRC20-复制地址
-* 其他交易所流程相同
+https://github.com/huafei80/huafei80/assets/168969977/2f2aff19-0c6a-44d0-8d00-5f2c94318a4b
 
 ## 小额电费提单教程
 ![image](https://github.com/huafei80/huafei80/assets/168969977/a34da4b5-b2bb-4450-849c-65a0460d1ec7)
