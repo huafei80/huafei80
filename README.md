@@ -1,8 +1,15 @@
 # 如何成为代理？
 
 ## 这是什么？
-* 这是一个8折三网话费充值平台
-* 平台目前主营话费8折直充、电费直冲、油费直冲（待上线）、查档
+* 这是一个7折/8折三网话费充值平台
+* 平台目前主营：
+  * 🉑话费7折/8折直充
+  * 🉑电费直冲
+  * 🉑油费直冲
+  * ㊙️查档
+  * 🈶信用卡代还
+  * 🈶京东小时达
+  * 🈶拼多多代付
 
 ## 如何成为代理
 * [安卓注册](http://xl.baililai.xyz/Invitation/register#/?invite_code=FGUWP7TQ&name=%E5%B0%8F%E6%B4%BE)
@@ -65,9 +72,9 @@
 <video src="https://github.com/huafei80/huafei80/assets/168969977/6aec6aa9-17d8-444e-a704-9e1031f3e303" controls="controls"></video>
 
 ### 交易所买币/[提币教程](https://github.com/huafei80/huafei80/assets/168969977/2f2aff19-0c6a-44d0-8d00-5f2c94318a4b)（欧易）
-* [欧易注册下载](https://okx.com/join/18350466)
-* [火币注册下载](https://www.htx.co.si/invite/zh-cn/1f?invite_code=qik68223)
-* [币安注册下载](https://accounts.binance.info/register?ref=859820015)
+* [欧易注册下载](https://okx.com/)
+* [火币注册下载](https://htx.com/)
+* [币安注册下载](https://binance.com)
 * 注意事项：交易所提币数量需要比小利充值数量多1U，这1U为交易所提币必须的手续费，非本公司收取
 * 币安/火币流程相同，不做赘述，遇到充值失败问题，联系在线客服解决
 <video src="https://github.com/huafei80/huafei80/assets/168969977/2f2aff19-0c6a-44d0-8d00-5f2c94318a4b" controls="controls"></video>
